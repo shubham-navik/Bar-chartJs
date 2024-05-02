@@ -1,0 +1,76 @@
+{
+  "parties": [
+    {
+      "name": "A",
+      "color": "#FF5733",
+      "votes": {
+        "2020": 15000,
+        "2021": 18000,
+        "2022": 20000,
+        "2023": 22000,
+        "2024": 25000
+      },
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png"
+    },
+    {
+      "name": "B",
+      "color": "#33FF57",
+      "votes": {
+        "2020": 12000,
+        "2021": 13000,
+        "2022": 14000,
+        "2023": 16000,
+        "2024": 18000
+      },
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png"
+    },
+    {
+      "name": "C",
+      "color": "#5733FF",
+      "votes": {
+        "2020": 9000,
+        "2021": 10000,
+        "2022": 11000,
+        "2023": 12000,
+        "2024": 13000
+      },
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png"
+    },
+    {
+      "name": "D",
+      "color": "#33A8FF",
+      "votes": {
+        "2020": 6000,
+        "2021": 7000,
+        "2022": 8000,
+        "2023": 9000,
+        "2024": 10000
+      },
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png"
+    },
+    {
+      "name": "E",
+      "color": "#FFE333",
+      "votes": {
+        "2020": 3000,
+        "2021": 4000,
+        "2022": 5000,
+        "2023": 6000,
+        "2024": 7000
+      },
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png"
+    },
+    {
+      "name": "F",
+      "color": "#FF5733",
+      "votes": {
+        "2020": 15000,
+        "2021": 18000,
+        "2022": 20000,
+        "2023": 22000,
+        "2024": 25000
+      },
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png"
+    }
+  ]
+}
